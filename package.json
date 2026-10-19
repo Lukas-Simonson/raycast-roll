@@ -18,7 +18,6 @@
     {
       "name": "roll",
       "title": "Roll",
-      "subtitle": "Roll Your Dice",
       "description": "rolls dice based on the users input",
       "mode": "no-view",
       "arguments": [
