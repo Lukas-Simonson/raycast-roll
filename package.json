@@ -1,7 +1,7 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
-  "name": "roll",
-  "title": "Roll",
+  "name": "roll-dice",
+  "title": "Roll Dice",
   "description": "Roll dice using common dice formats",
   "icon": "dice.png",
   "author": "lukas-simonson",
